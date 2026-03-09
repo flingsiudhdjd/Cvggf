@@ -1,4 +1,4 @@
 --[[
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
-loadstring(game:HttpGet("https://github.com/flingsiudhdjd/Cvggf/commit/80c30e49f61eeb549950f18867329c324ecffd32"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/flingsiudhdjd/Cvggf/refs/heads/main/exe"))()
